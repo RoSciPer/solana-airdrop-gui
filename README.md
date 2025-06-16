@@ -12,6 +12,7 @@ Before running, edit the `.env` file with the appropriate values:
 TOKEN_ADDRESS=go9KJV94e4e4a8Npja9VLd2ehbxi2dtydtq7Kzbpump
 DELAY_SECONDS=1
 MAX_WORKERS=5
+```
 Run with:
 
 ```bash
