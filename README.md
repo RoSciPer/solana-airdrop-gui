@@ -50,7 +50,7 @@ Finished operation:
 
 
 Terminal launch example:
-
+![Apraksts](terminalstart.png)
 
 📂 .gitignore
 Sensitive and unnecessary files like the virtual environment folder, .env, and test scripts (e.g., airdrop1.py) are excluded using .gitignore.
