@@ -17,9 +17,9 @@ Run with:
 
 ```bash
 python3 airdrop4.py
+```
 🖥️ airdrop5.py — GUI Version
 A simple Tkinter-based GUI for performing token airdrops. The GUI allows manual input of:
-```
 
 Token address
 
@@ -31,10 +31,10 @@ CSV file with public keys
 
 Launch with:
 
-bash
-Kopēt
-Rediģēt
+```bash
 python3 airdrop5.py
+```
+
 📌 Note: This version currently uses the default wallet configured via solana-cli. For more control (like connecting a wallet or entering a private key), future versions may include wallet login support.
 
 You can also convert the GUI version into a standalone Windows application using tools like pyinstaller.
