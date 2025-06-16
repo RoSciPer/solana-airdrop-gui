@@ -1,0 +1,10 @@
+venv/
+.env
+airdrop.py
+airdrop1.py
+airdrop2.py
+airdrop3.py
+adreses.csv
+adreses20.csv
+adreses80.csv
+generated_wallets.csv:Zone.Identifier
