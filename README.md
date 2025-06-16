@@ -41,13 +41,13 @@ You can also convert the GUI version into a standalone Windows application using
 
 📁 Screenshots
 GUI start screen:
-
+![Apraksts](GuiStart.png)
 
 Airdrop in progress:
-
+![Apraksts](GUIready.png)
 
 Finished operation:
-
+![Apraksts](Finished.png)
 
 Terminal launch example:
 ![Apraksts](terminalstart.png)
@@ -58,10 +58,9 @@ Sensitive and unnecessary files like the virtual environment folder, .env, and t
 📋 Requirements
 Install required Python packages:
 
-bash
-Kopēt
-Rediģēt
+```bash
 pip install -r requirements.txt
+```
 Ensure you have solana-cli and spl-token-cli installed and configured.
 
 🔐 Security
