@@ -14,12 +14,11 @@ DELAY_SECONDS=1
 MAX_WORKERS=5
 Run with:
 
-bash
-Kopēt
-Rediģēt
+```bash
 python3 airdrop4.py
 🖥️ airdrop5.py — GUI Version
 A simple Tkinter-based GUI for performing token airdrops. The GUI allows manual input of:
+```
 
 Token address
 
